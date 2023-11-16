@@ -3,6 +3,7 @@ var mode = "LETTERS";
 var voiceOFF = "VOICE: OFF";
 var soundOFF = "SOUND: ON";
 var i = 0;
+var j = 0;
 var wordsCount = 0;
 var lettersCount = 0;
 var lettersScore = 0;
